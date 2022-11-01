@@ -1,4 +1,35 @@
-p{
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+
+
+
+
+
+.p{
     color: rgb(180, 35, 35);
     text-align: center;
-}
+ }
+ .lola{
+    width: 10px;
+    border-radius: 30%;
+ }
+  .fb {
+    width: 40px;
+    border-radius: 600%;
+    border-color: crimson;
+    border-style: groove;
+    border-bottom-left-radius: 300%;
+    border-bottom-right-radius: 200%;
+    border-top-left-radius: ;
+  }
+
+  .botonwhat{
+    border-style:groove;
+    border-color: rgb(20, 94, 26);
+    border-radius: 10px;
+    background-color: rgb(46, 8, 97);
+    color:rgb(247, 252, 0);
+    padding:4px;
+    width: 69px;
+    font-family: oswald;
+
+  }
