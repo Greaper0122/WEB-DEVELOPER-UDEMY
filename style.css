@@ -9,13 +9,13 @@
     text-align: center;
  }
  .lola{
-    width: 10px;
+    width: 400px;
     border-radius: 30%;
  }
   .fb {
-    width: 40px;
+    width: 400px;
     border-radius: 600%;
-    border-color: crimson;
+    border-color: rgb(180, 61, 14);
     border-style: groove;
     border-bottom-left-radius: 300%;
     border-bottom-right-radius: 200%;
